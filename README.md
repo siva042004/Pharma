@@ -26,8 +26,9 @@ Create a HTML file and include the needed Bootstrap components.
 Publish the website in the LocalHost.
 
 ## PROGRAM :
-## web.html
 ```
+WEB.HTML
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -189,10 +190,9 @@ Publish the website in the LocalHost.
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
-```
 
 
-## PRODUCT.HTML
+PRODUCT.HTML
 
 <!DOCTYPE html>
 <html lang="en">
@@ -285,10 +285,9 @@ Publish the website in the LocalHost.
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
-```
 
 
-## CONTACT.HTML
+CONTACT.HTML
 
 <!DOCTYPE html>
 <html lang="en">
