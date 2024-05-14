@@ -489,11 +489,14 @@ PRODUCT.HTML
 
 
 
-..![Screenshot 2024-05-14 140746](https://github.com/siva042004/Pharma/assets/142372001/a353758e-ac69-4758-b9d9-1c5f16007451)
+![Screenshot 2024-05-14 140753](https://github.com/siva042004/Pharma/assets/142372001/4b599425-8f2c-4629-b322-d0a5c156b469)
 
-![Screenshot 2024-05-14 140746](https://github.com/siva042004/Pharma/assets/142372001/137b7a5d-063c-4a37-977b-e6e80162dc2f)
 
-![Screenshot 2024-05-14 140746](https://github.com/siva042004/Pharma/assets/142372001/823581e9-a11c-45a0-ae56-d0e9572e4b61)
+![Screenshot 2024-05-14 140800 - Copy](https://github.com/siva042004/Pharma/assets/142372001/c212ec46-e729-48be-bc74-04c6b7cbc047)
+
+
+![Screenshot 2024-05-14 140808 - Copy](https://github.com/siva042004/Pharma/assets/142372001/69d4abad-2689-4dd3-acfa-c4e08cbb38ff)
+
 
 
 
