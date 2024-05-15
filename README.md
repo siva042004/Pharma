@@ -29,7 +29,7 @@ Publish the website in the LocalHost.
 ## WEB.HTML
 ```
 
-=======
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -95,7 +95,7 @@ Publish the website in the LocalHost.
   <div class="container mt-5">
     <div class="row">
       <div class="col-md-8">
-<<<<<<< HEAD
+
         <h1>Welcome to sivapharmacy</h1>
         <p>Welcome to sivapharmacy, your trusted source for high-quality pharmaceutical products. We are dedicated to improving the health and well-being of our customers by providing safe and effective medications.</p>
         <p>At sivapharmacy, we offer a wide range of prescription and over-the-counter medications to meet your healthcare needs. Whether you're managing a chronic condition or simply looking for relief from minor ailments, we have the products you need.</p>
@@ -114,8 +114,7 @@ Publish the website in the LocalHost.
     <div class="container">
       <p>&copy; 2024 sivaPharmacy. All rights reserved. BY sivaragul.m(212221040155)</p>
     </div>
-=======
-   
+
   </footer>
 
   <!-- Bootstrap JS -->
@@ -124,23 +123,23 @@ Publish the website in the LocalHost.
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
-<<<<<<< HEAD
+
 
 
  
  
  ## ABOUT.HTML
-```
+
  <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<<<<<<< HEAD
+
   <title>About sivaPharmacy</title>
-=======
+
   <title>Products - PharmaCompany</title>
->>>>>>> 85376859a416735fb730d585bc193ae85efbcc9a
+
   <!-- Bootstrap CSS -->
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <style>
@@ -180,7 +179,7 @@ Publish the website in the LocalHost.
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Products
+          
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <a class="dropdown-item" href="#">Over-the-counter (OTC) Medications</a>
@@ -205,7 +204,7 @@ Publish the website in the LocalHost.
   </nav>
 
   <!-- Page Content -->
-<<<<<<< HEAD
+
   <div class="container mt-5 content">
     <div class="row">
       <div class="col-md-12">
@@ -213,20 +212,20 @@ Publish the website in the LocalHost.
         <div id="vision">
           <h2>Vision</h2>
           <p>Our vision is to be a leading provider of innovative healthcare solutions that improve the quality of life for people around the world.</p>
-=======
 
->>>>>>> 85376859a416735fb730d585bc193ae85efbcc9a
-        </div>
+
+
+       </div>
       </div>
     </div>
   </div>
-<<<<<<< HEAD
+
 
   <!-- Footer -->
   <footer>
     <div class="container">
         <p>&copy; 2024 sivaPharmacy. All rights reserved. BY sivaragul.m(212221040155)</p>
-=======
+
 
     </div>
   </footer>
@@ -237,11 +236,11 @@ Publish the website in the LocalHost.
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
-```
+
 
 
 ## CONTACT.HTML
-```<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -264,7 +263,7 @@ Publish the website in the LocalHost.
       <span class="navbar-toggler-icon"></span>
     </button>
 
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item">
           <a class="nav-link" href="web.html">Home</a>
@@ -321,12 +320,10 @@ Publish the website in the LocalHost.
  
   <body background="https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0zNzNiYXRjaDE1LTIxNy0wMS5qcGc.jpg" style="background-repeat: no-repeat; background-size: cover;">
 
-    <br><br><br>
-  <!-- Footer -->
-<<<<<<< HEAD
+  
   <footer class="bg-dark text-white text-center py-4 mt-5">
     <p>&copy; 2024 sivaPharmacy. All rights reserved. BY sivaragul.m(212221040155)</p>
-=======
+
  
   </footer>
 
@@ -377,7 +374,7 @@ product.html
       <span class="navbar-toggler-icon"></span>
     </button>
 
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+   \ <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item">
           <a class="nav-link" href="web.html">Home</a>
@@ -457,18 +454,17 @@ product.html
 
 
 ## OUTPUT:
-<<<<<<< HEAD
+
 ![alt text](<Screenshot 2024-05-15 211735.png>)
 ![alt text](<Screenshot 2024-05-15 211744.png>)
 ![alt text](<Screenshot 2024-05-15 211751.png>)
 ![alt text](<Screenshot 2024-05-15 211758.png>)
-=======
 
 
 
 
 
->>>>>>> 85376859a416735fb730d585bc193ae85efbcc9a
+
 
 
 
